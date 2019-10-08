@@ -1,0 +1,5 @@
+state_act: EnvelopeDetailsActivity
+state_id: 11
+state_path: [Event [sId=1, vId=2131361806, vTypoe=android.widget.TextView], Event [sId=3, vId=82, vTypoe=], Event [sId=8, vId=2131361799, vTypoe=android.widget.TextView]]
+state_stack: [EnvelopesActivity]
+state_view: [view [id=16908298, type=android.widget.ListView, status=, view [id=2131361798, type=android.widget.TextView, status=,text=Balance, view [id=2131361799, type=android.widget.TextView, status=,text=-10456352759289447., view [id=2131361818, type=android.widget.TextView, status=, view [id=2131361798, type=android.widget.TextView, status=, view [id=2131361799, type=android.widget.TextView, status=,text=-10456352759289447., view [id=2131361807, type=android.widget.TextView, status=,text=August 20, 2018, view [id=16909077, type=com.android.internal.widget.AbsActionBarView, status=, view [id=16908890, type=android.widget.ImageView, status=, view [id=16908332, type=android.widget.ImageView, status=, view [id=-1, type=android.widget.EditText, status=, view [id=16909078, type=com.android.internal.widget.AbsActionBarView, status=]

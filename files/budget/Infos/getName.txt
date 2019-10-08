@@ -1,0 +1,9 @@
+package:com.notriddle.budget
+main:com.notriddle.budget.EnvelopesActivity
+act:com.notriddle.budget.EnvelopeDetailsActivity
+act:com.notriddle.budget.PaycheckActivity
+act:com.notriddle.budget.FragmentActivity
+act:com.notriddle.budget.AboutActivity
+act:com.notriddle.budget.AllTransactionsActivity
+act:com.notriddle.budget.SettingsActivity
+act:com.notriddle.budget.PinActivity

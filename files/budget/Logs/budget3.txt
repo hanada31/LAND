@@ -1,0 +1,117 @@
+--------- beginning of /dev/log/main
+--------- beginning of /dev/log/system
+08-20 20:37:11.020 E/android_hardware_fm.cpp( 2768): register_android_hardware_fm_fmradio
+08-20 20:37:11.020 E/FM_HAL  ( 2768): [FM_HAL], fm_dynamic_lib is libbcmfm_if
+08-20 20:37:11.020 E/FM_HAL  ( 2768): [FM_HAL], libname is libbcmfm_if
+08-20 20:37:11.020 E/fm_if.c ( 2768): find the id:libbcmfm_if and begins to open the devices
+08-20 20:37:11.020 E/android_hardware_fm.cpp( 2768): register_android_hardware_fm_fmradio, ret is 0
+08-20 20:37:12.000 E/dalvikvm( 2795): Could not find class 'android.support.v4.app.FragmentActivity', referenced from method com.robotium.solo.Waiter.getSupportFragment
+08-20 20:37:29.630 E/CommandListener(  148): readDefRoute call readDefRoute
+08-20 20:37:29.630 E/SecondaryTablController(  148): isWifiDefaultRouteExisted /system/bin/ip route
+08-20 20:37:30.640 E/CommandListener(  148): readDefRoute Rsp ok
+08-20 20:37:30.640 E/NetdConnector(  855): NDC Command {2991 interface route readDefRoute} took too long (1018ms)
+08-20 20:37:30.720 E/android_hardware_fm.cpp( 2945): register_android_hardware_fm_fmradio
+08-20 20:37:30.720 E/FM_HAL  ( 2945): [FM_HAL], fm_dynamic_lib is libbcmfm_if
+08-20 20:37:30.720 E/FM_HAL  ( 2945): [FM_HAL], libname is libbcmfm_if
+08-20 20:37:30.720 E/fm_if.c ( 2945): find the id:libbcmfm_if and begins to open the devices
+08-20 20:37:30.720 E/android_hardware_fm.cpp( 2945): register_android_hardware_fm_fmradio, ret is 0
+08-20 20:37:36.570 E/Util    (25355): java.net.URISyntaxException: Illegal character in path at index 7: Webpage not available
+08-20 20:37:36.570 E/Util    (25355): java.net.URISyntaxException: Illegal character in path at index 7: Webpage not available
+08-20 20:37:36.570 E/Util    (25355): 	at libcore.net.UriCodec.validate(UriCodec.java:63)
+08-20 20:37:36.570 E/Util    (25355): 	at java.net.URI.parseURI(URI.java:402)
+08-20 20:37:36.570 E/Util    (25355): 	at java.net.URI.<init>(URI.java:204)
+08-20 20:37:36.570 E/Util    (25355): 	at com.android.browser.custom.util.Util.isRelativizeUrl(Util.java:2622)
+08-20 20:37:36.570 E/Util    (25355): 	at com.android.browser.custom.util.Util.isHwDefaultHomepage(Util.java:2600)
+08-20 20:37:36.570 E/Util    (25355): 	at com.android.browser.custom.util.Util.isHwHomePage(Util.java:2580)
+08-20 20:37:36.570 E/Util    (25355): 	at com.huawei.browser.titlebar.HwNavigationBarPhone.setDisplayTitle(HwNavigationBarPhone.java:271)
+08-20 20:37:36.570 E/Util    (25355): 	at com.android.browser.BaseUi.setUrlTitle(BaseUi.java:761)
+08-20 20:37:36.570 E/Util    (25355): 	at com.android.browser.BaseUi.onTabDataChanged(BaseUi.java:325)
+08-20 20:37:36.570 E/Util    (25355): 	at com.android.browser.BaseUi.setActiveTab(BaseUi.java:431)
+08-20 20:37:36.570 E/Util    (25355): 	at com.android.browser.PhoneUi.setActiveTab(PhoneUi.java:176)
+08-20 20:37:36.570 E/Util    (25355): 	at com.android.browser.BaseUi.onResume(BaseUi.java:217)
+08-20 20:37:36.570 E/Util    (25355): 	at com.android.browser.Controller.onResume(Controller.java:1366)
+08-20 20:37:36.570 E/Util    (25355): 	at com.android.browser.BrowserActivity.onResume(BrowserActivity.java:263)
+08-20 20:37:36.570 E/Util    (25355): 	at android.app.Instrumentation.callActivityOnResume(Instrumentation.java:1200)
+08-20 20:37:36.570 E/Util    (25355): 	at android.app.Activity.performResume(Activity.java:5388)
+08-20 20:37:36.570 E/Util    (25355): 	at android.app.ActivityThread.performResumeActivity(ActivityThread.java:2984)
+08-20 20:37:36.570 E/Util    (25355): 	at android.app.ActivityThread.handleResumeActivity(ActivityThread.java:3036)
+08-20 20:37:36.570 E/Util    (25355): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1284)
+08-20 20:37:36.570 E/Util    (25355): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+08-20 20:37:36.570 E/Util    (25355): 	at android.os.Looper.loop(Looper.java:136)
+08-20 20:37:36.570 E/Util    (25355): 	at android.app.ActivityThread.main(ActivityThread.java:5290)
+08-20 20:37:36.570 E/Util    (25355): 	at java.lang.reflect.Method.invokeNative(Native Method)
+08-20 20:37:36.570 E/Util    (25355): 	at java.lang.reflect.Method.invoke(Method.java:515)
+08-20 20:37:36.570 E/Util    (25355): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:859)
+08-20 20:37:36.570 E/Util    (25355): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:675)
+08-20 20:37:36.570 E/Util    (25355): 	at dalvik.system.NativeStart.main(Native Method)
+08-20 20:37:36.570 E/Util    (25355): java.net.URISyntaxException: Illegal character in path at index 7: Webpage not available
+08-20 20:37:36.570 E/Util    (25355): java.net.URISyntaxException: Illegal character in path at index 7: Webpage not available
+08-20 20:37:36.570 E/Util    (25355): 	at libcore.net.UriCodec.validate(UriCodec.java:63)
+08-20 20:37:36.570 E/Util    (25355): 	at java.net.URI.parseURI(URI.java:402)
+08-20 20:37:36.570 E/Util    (25355): 	at java.net.URI.<init>(URI.java:204)
+08-20 20:37:36.570 E/Util    (25355): 	at com.android.browser.custom.util.Util.isRelativizeUrl(Util.java:2622)
+08-20 20:37:36.570 E/Util    (25355): 	at com.android.browser.custom.util.Util.isHwDefaultHomepage(Util.java:2600)
+08-20 20:37:36.570 E/Util    (25355): 	at com.android.browser.custom.util.Util.isHwHomePage(Util.java:2580)
+08-20 20:37:36.570 E/Util    (25355): 	at com.huawei.browser.titlebar.HwNavigationBarPhone.setDisplayTitle(HwNavigationBarPhone.java:271)
+08-20 20:37:36.570 E/Util    (25355): 	at com.android.browser.BaseUi.setUrlTitle(BaseUi.java:761)
+08-20 20:37:36.570 E/Util    (25355): 	at com.android.browser.BaseUi.onTabDataChanged(BaseUi.java:325)
+08-20 20:37:36.570 E/Util    (25355): 	at com.android.browser.BaseUi.setActiveTab(BaseUi.java:431)
+08-20 20:37:36.570 E/Util    (25355): 	at com.android.browser.PhoneUi.setActiveTab(PhoneUi.java:176)
+08-20 20:37:36.570 E/Util    (25355): 	at com.android.browser.BaseUi.onResume(BaseUi.java:217)
+08-20 20:37:36.570 E/Util    (25355): 	at com.android.browser.Controller.onResume(Controller.java:1366)
+08-20 20:37:36.570 E/Util    (25355): 	at com.android.browser.BrowserActivity.onResume(BrowserActivity.java:263)
+08-20 20:37:36.570 E/Util    (25355): 	at android.app.Instrumentation.callActivityOnResume(Instrumentation.java:1200)
+08-20 20:37:36.570 E/Util    (25355): 	at android.app.Activity.performResume(Activity.java:5388)
+08-20 20:37:36.570 E/Util    (25355): 	at android.app.ActivityThread.performResumeActivity(ActivityThread.java:2984)
+08-20 20:37:36.570 E/Util    (25355): 	at android.app.ActivityThread.handleResumeActivity(ActivityThread.java:3036)
+08-20 20:37:36.570 E/Util    (25355): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1284)
+08-20 20:37:36.570 E/Util    (25355): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+08-20 20:37:36.570 E/Util    (25355): 	at android.os.Looper.loop(Looper.java:136)
+08-20 20:37:36.570 E/Util    (25355): 	at android.app.ActivityThread.main(ActivityThread.java:5290)
+08-20 20:37:36.570 E/Util    (25355): 	at java.lang.reflect.Method.invokeNative(Native Method)
+08-20 20:37:36.570 E/Util    (25355): 	at java.lang.reflect.Method.invoke(Method.java:515)
+08-20 20:37:36.570 E/Util    (25355): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:859)
+08-20 20:37:36.570 E/Util    (25355): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:675)
+08-20 20:37:36.570 E/Util    (25355): 	at dalvik.system.NativeStart.main(Native Method)
+08-20 20:37:36.910 E/android_hardware_fm.cpp( 2991): register_android_hardware_fm_fmradio
+08-20 20:37:36.910 E/FM_HAL  ( 2991): [FM_HAL], fm_dynamic_lib is libbcmfm_if
+08-20 20:37:36.910 E/FM_HAL  ( 2991): [FM_HAL], libname is libbcmfm_if
+08-20 20:37:36.920 E/fm_if.c ( 2991): find the id:libbcmfm_if and begins to open the devices
+08-20 20:37:36.920 E/android_hardware_fm.cpp( 2991): register_android_hardware_fm_fmradio, ret is 0
+08-20 20:37:36.960 E/AndroidRuntime( 2795): FATAL EXCEPTION: main
+08-20 20:37:36.960 E/AndroidRuntime( 2795): Process: com.notriddle.budget, PID: 2795
+08-20 20:37:36.960 E/AndroidRuntime( 2795): java.lang.RuntimeException: Unable to destroy activity {com.notriddle.budget/com.notriddle.budget.EnvelopesActivity}: java.lang.IllegalStateException: Can not perform this action inside of onLoaderReset
+08-20 20:37:36.960 E/AndroidRuntime( 2795): 	at android.app.ActivityThread.performDestroyActivity(ActivityThread.java:3725)
+08-20 20:37:36.960 E/AndroidRuntime( 2795): 	at android.app.ActivityThread.handleDestroyActivity(ActivityThread.java:3743)
+08-20 20:37:36.960 E/AndroidRuntime( 2795): 	at android.app.ActivityThread.access$1700(ActivityThread.java:141)
+08-20 20:37:36.960 E/AndroidRuntime( 2795): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1295)
+08-20 20:37:36.960 E/AndroidRuntime( 2795): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+08-20 20:37:36.960 E/AndroidRuntime( 2795): 	at android.os.Looper.loop(Looper.java:136)
+08-20 20:37:36.960 E/AndroidRuntime( 2795): 	at android.app.ActivityThread.main(ActivityThread.java:5290)
+08-20 20:37:36.960 E/AndroidRuntime( 2795): 	at java.lang.reflect.Method.invokeNative(Native Method)
+08-20 20:37:36.960 E/AndroidRuntime( 2795): 	at java.lang.reflect.Method.invoke(Method.java:515)
+08-20 20:37:36.960 E/AndroidRuntime( 2795): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:859)
+08-20 20:37:36.960 E/AndroidRuntime( 2795): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:675)
+08-20 20:37:36.960 E/AndroidRuntime( 2795): 	at dalvik.system.NativeStart.main(Native Method)
+08-20 20:37:36.960 E/AndroidRuntime( 2795): Caused by: java.lang.IllegalStateException: Can not perform this action inside of onLoaderReset
+08-20 20:37:36.960 E/AndroidRuntime( 2795): 	at android.app.FragmentManagerImpl.checkStateLoss(FragmentManager.java:1336)
+08-20 20:37:36.960 E/AndroidRuntime( 2795): 	at android.app.FragmentManagerImpl.enqueueAction(FragmentManager.java:1350)
+08-20 20:37:36.960 E/AndroidRuntime( 2795): 	at android.app.BackStackRecord.commitInternal(BackStackRecord.java:597)
+08-20 20:37:36.960 E/AndroidRuntime( 2795): 	at android.app.BackStackRecord.commit(BackStackRecord.java:575)
+08-20 20:37:36.960 E/AndroidRuntime( 2795): 	at android.app.DialogFragment.dismissInternal(DialogFragment.java:292)
+08-20 20:37:36.960 E/AndroidRuntime( 2795): 	at android.app.DialogFragment.dismiss(DialogFragment.java:258)
+08-20 20:37:36.960 E/AndroidRuntime( 2795): 	at com.notriddle.budget.OkFragment.dismiss(OkFragment.java:78)
+08-20 20:37:36.960 E/AndroidRuntime( 2795): 	at com.notriddle.budget.TransferFragment.onLoaderReset(TransferFragment.java:143)
+08-20 20:37:36.960 E/AndroidRuntime( 2795): 	at android.app.LoaderManagerImpl$LoaderInfo.destroy(LoaderManager.java:364)
+08-20 20:37:36.960 E/AndroidRuntime( 2795): 	at android.app.LoaderManagerImpl.doDestroy(LoaderManager.java:839)
+08-20 20:37:36.960 E/AndroidRuntime( 2795): 	at android.app.Fragment.onDestroy(Fragment.java:1387)
+08-20 20:37:36.960 E/AndroidRuntime( 2795): 	at android.app.Fragment.performDestroy(Fragment.java:1934)
+08-20 20:37:36.960 E/AndroidRuntime( 2795): 	at android.app.FragmentManagerImpl.moveToState(FragmentManager.java:1020)
+08-20 20:37:36.960 E/AndroidRuntime( 2795): 	at android.app.FragmentManagerImpl.moveToState(FragmentManager.java:1071)
+08-20 20:37:36.960 E/AndroidRuntime( 2795): 	at android.app.FragmentManagerImpl.moveToState(FragmentManager.java:1053)
+08-20 20:37:36.960 E/AndroidRuntime( 2795): 	at android.app.FragmentManagerImpl.dispatchDestroy(FragmentManager.java:1890)
+08-20 20:37:36.960 E/AndroidRuntime( 2795): 	at android.app.Activity.performDestroy(Activity.java:5507)
+08-20 20:37:36.960 E/AndroidRuntime( 2795): 	at android.app.Instrumentation.callActivityOnDestroy(Instrumentation.java:1120)
+08-20 20:37:36.960 E/AndroidRuntime( 2795): 	at android.app.ActivityThread.performDestroyActivity(ActivityThread.java:3712)
+08-20 20:37:36.960 E/AndroidRuntime( 2795): 	... 11 more
+08-20 20:37:37.030 E/SubmitMessage( 1255): Submit string: submit:trigger=0,bugtype=2,modulename=com.notriddle.budget,level=1,testtype=NORMAL,path=/data/log/unzip/P6S-U06_V100R001C17B606_022KNG141D000020_20180820203737_crash

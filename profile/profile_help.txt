@@ -1,0 +1,64 @@
+[test mode (1/2/3/4)]
+testMode:2
+1：不考虑控件状态&回退栈
+2：考虑控件状态，不考虑回退栈
+3：不考虑控件状态，考虑回退栈
+4：同时考虑控件状态&回退栈
+
+
+[#EditText input mode (random/given/manual)]
+editTextType:random
+givenStr:5
+enterTime:10
+random：遇到输入框随机生成字符串
+given：每次输入指定的字符串givenStr
+manual：每次等待时间为enterTime秒，用户可在该时间内自行输入
+
+
+
+[#state similarity (0-1)]
+Similarity:0.8
+状态相似度阈值：相似度大于该阈值的两个状态不会被区分
+
+
+
+[#if lonclick exists (0/1)]
+isButtonLongClick:0
+isTextLongClick:0
+isButtonLongClick：是否发送按钮长按事件，1发送，0不发送
+isTextLongClick：是否发送文本长按事件，1发送，0不发送
+
+
+
+[#if scroll exists (0/1)]
+isScroll:0
+1：发送上下左右滑动事件
+0：不发送
+
+
+
+[#visit ecah line or only first line (each/first)]
+listVisit:first
+first：遇到list只访问第一个item
+each：遇到list访问每一个item
+
+
+
+[#click widget type by (view/point)]
+clickType:point
+view：按照控件id操作控件
+point：按照控件坐标操作控件
+
+
+[#sleep time between two operations]
+smallsleeptime:50
+两个事件执行的操作间隔
+
+
+[#application launch time --more than splash time]
+sleeptime:1000
+应用启动到开始探索的时间间隔
+
+
+
+

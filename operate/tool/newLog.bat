@@ -1,0 +1,1 @@
+start /min "logcat" CMD /c call %~dp0\adblog.bat 

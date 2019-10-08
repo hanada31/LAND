@@ -1,0 +1,6 @@
+Landroid/hardware/Camera;->open(
+Landroid/hardware/Camera;->release(
+Landroid/hardware/Camera;->startFaceDetection(
+Landroid/hardware/Camera;->stopFaceDetection(
+Landroid/hardware/Camera;->startPreview(
+Landroid/hardware/Camera;->stopPreview(

@@ -1,0 +1,68 @@
+--------- beginning of /dev/log/main
+08-20 20:45:46.910 E/CommandListener(  148): readDefRoute Rsp ok
+--------- beginning of /dev/log/system
+08-20 20:45:46.910 E/NetdConnector(  855): NDC Command {3010 interface route readDefRoute} took too long (1013ms)
+08-20 20:45:47.730 E/android_hardware_fm.cpp( 6126): register_android_hardware_fm_fmradio
+08-20 20:45:47.730 E/FM_HAL  ( 6126): [FM_HAL], fm_dynamic_lib is libbcmfm_if
+08-20 20:45:47.730 E/FM_HAL  ( 6126): [FM_HAL], libname is libbcmfm_if
+08-20 20:45:47.730 E/fm_if.c ( 6126): find the id:libbcmfm_if and begins to open the devices
+08-20 20:45:47.730 E/android_hardware_fm.cpp( 6126): register_android_hardware_fm_fmradio, ret is 0
+08-20 20:45:48.760 E/dalvikvm( 6150): Could not find class 'android.support.v4.app.FragmentActivity', referenced from method com.robotium.solo.Waiter.getSupportFragment
+08-20 20:45:59.120 E/Util    (25355): java.net.URISyntaxException: Illegal character in path at index 7: Webpage not available
+08-20 20:45:59.120 E/Util    (25355): java.net.URISyntaxException: Illegal character in path at index 7: Webpage not available
+08-20 20:45:59.120 E/Util    (25355): 	at libcore.net.UriCodec.validate(UriCodec.java:63)
+08-20 20:45:59.120 E/Util    (25355): 	at java.net.URI.parseURI(URI.java:402)
+08-20 20:45:59.120 E/Util    (25355): 	at java.net.URI.<init>(URI.java:204)
+08-20 20:45:59.120 E/Util    (25355): 	at com.android.browser.custom.util.Util.isRelativizeUrl(Util.java:2622)
+08-20 20:45:59.120 E/Util    (25355): 	at com.android.browser.custom.util.Util.isHwDefaultHomepage(Util.java:2600)
+08-20 20:45:59.120 E/Util    (25355): 	at com.android.browser.custom.util.Util.isHwHomePage(Util.java:2580)
+08-20 20:45:59.120 E/Util    (25355): 	at com.huawei.browser.titlebar.HwNavigationBarPhone.setDisplayTitle(HwNavigationBarPhone.java:271)
+08-20 20:45:59.120 E/Util    (25355): 	at com.android.browser.BaseUi.setUrlTitle(BaseUi.java:761)
+08-20 20:45:59.120 E/Util    (25355): 	at com.android.browser.BaseUi.onTabDataChanged(BaseUi.java:325)
+08-20 20:45:59.120 E/Util    (25355): 	at com.android.browser.BaseUi.setActiveTab(BaseUi.java:431)
+08-20 20:45:59.120 E/Util    (25355): 	at com.android.browser.PhoneUi.setActiveTab(PhoneUi.java:176)
+08-20 20:45:59.120 E/Util    (25355): 	at com.android.browser.BaseUi.onResume(BaseUi.java:217)
+08-20 20:45:59.120 E/Util    (25355): 	at com.android.browser.Controller.onResume(Controller.java:1366)
+08-20 20:45:59.120 E/Util    (25355): 	at com.android.browser.BrowserActivity.onResume(BrowserActivity.java:263)
+08-20 20:45:59.120 E/Util    (25355): 	at android.app.Instrumentation.callActivityOnResume(Instrumentation.java:1200)
+08-20 20:45:59.120 E/Util    (25355): 	at android.app.Activity.performResume(Activity.java:5388)
+08-20 20:45:59.120 E/Util    (25355): 	at android.app.ActivityThread.performResumeActivity(ActivityThread.java:2984)
+08-20 20:45:59.120 E/Util    (25355): 	at android.app.ActivityThread.handleResumeActivity(ActivityThread.java:3036)
+08-20 20:45:59.120 E/Util    (25355): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1284)
+08-20 20:45:59.120 E/Util    (25355): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+08-20 20:45:59.120 E/Util    (25355): 	at android.os.Looper.loop(Looper.java:136)
+08-20 20:45:59.120 E/Util    (25355): 	at android.app.ActivityThread.main(ActivityThread.java:5290)
+08-20 20:45:59.120 E/Util    (25355): 	at java.lang.reflect.Method.invokeNative(Native Method)
+08-20 20:45:59.120 E/Util    (25355): 	at java.lang.reflect.Method.invoke(Method.java:515)
+08-20 20:45:59.120 E/Util    (25355): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:859)
+08-20 20:45:59.120 E/Util    (25355): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:675)
+08-20 20:45:59.120 E/Util    (25355): 	at dalvik.system.NativeStart.main(Native Method)
+08-20 20:45:59.120 E/Util    (25355): java.net.URISyntaxException: Illegal character in path at index 7: Webpage not available
+08-20 20:45:59.120 E/Util    (25355): java.net.URISyntaxException: Illegal character in path at index 7: Webpage not available
+08-20 20:45:59.120 E/Util    (25355): 	at libcore.net.UriCodec.validate(UriCodec.java:63)
+08-20 20:45:59.120 E/Util    (25355): 	at java.net.URI.parseURI(URI.java:402)
+08-20 20:45:59.120 E/Util    (25355): 	at java.net.URI.<init>(URI.java:204)
+08-20 20:45:59.120 E/Util    (25355): 	at com.android.browser.custom.util.Util.isRelativizeUrl(Util.java:2622)
+08-20 20:45:59.120 E/Util    (25355): 	at com.android.browser.custom.util.Util.isHwDefaultHomepage(Util.java:2600)
+08-20 20:45:59.120 E/Util    (25355): 	at com.android.browser.custom.util.Util.isHwHomePage(Util.java:2580)
+08-20 20:45:59.120 E/Util    (25355): 	at com.huawei.browser.titlebar.HwNavigationBarPhone.setDisplayTitle(HwNavigationBarPhone.java:271)
+08-20 20:45:59.120 E/Util    (25355): 	at com.android.browser.BaseUi.setUrlTitle(BaseUi.java:761)
+08-20 20:45:59.120 E/Util    (25355): 	at com.android.browser.BaseUi.onTabDataChanged(BaseUi.java:325)
+08-20 20:45:59.120 E/Util    (25355): 	at com.android.browser.BaseUi.setActiveTab(BaseUi.java:431)
+08-20 20:45:59.120 E/Util    (25355): 	at com.android.browser.PhoneUi.setActiveTab(PhoneUi.java:176)
+08-20 20:45:59.120 E/Util    (25355): 	at com.android.browser.BaseUi.onResume(BaseUi.java:217)
+08-20 20:45:59.120 E/Util    (25355): 	at com.android.browser.Controller.onResume(Controller.java:1366)
+08-20 20:45:59.120 E/Util    (25355): 	at com.android.browser.BrowserActivity.onResume(BrowserActivity.java:263)
+08-20 20:45:59.120 E/Util    (25355): 	at android.app.Instrumentation.callActivityOnResume(Instrumentation.java:1200)
+08-20 20:45:59.120 E/Util    (25355): 	at android.app.Activity.performResume(Activity.java:5388)
+08-20 20:45:59.120 E/Util    (25355): 	at android.app.ActivityThread.performResumeActivity(ActivityThread.java:2984)
+08-20 20:45:59.120 E/Util    (25355): 	at android.app.ActivityThread.handleResumeActivity(ActivityThread.java:3036)
+08-20 20:45:59.120 E/Util    (25355): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1284)
+08-20 20:45:59.120 E/Util    (25355): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+08-20 20:45:59.120 E/Util    (25355): 	at android.os.Looper.loop(Looper.java:136)
+08-20 20:45:59.120 E/Util    (25355): 	at android.app.ActivityThread.main(ActivityThread.java:5290)
+08-20 20:45:59.120 E/Util    (25355): 	at java.lang.reflect.Method.invokeNative(Native Method)
+08-20 20:45:59.120 E/Util    (25355): 	at java.lang.reflect.Method.invoke(Method.java:515)
+08-20 20:45:59.120 E/Util    (25355): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:859)
+08-20 20:45:59.120 E/Util    (25355): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:675)
+08-20 20:45:59.120 E/Util    (25355): 	at dalvik.system.NativeStart.main(Native Method)

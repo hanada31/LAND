@@ -1,0 +1,12 @@
+launchtime:3000
+givenStr: *#123
+isTextLongClick:0
+smallsleeptime:1000
+Similarity:0.3
+testMode:2
+editTextType:random
+listVisit:first
+clickType:point
+enterTime:10
+isButtonLongClick:0
+isScroll:0

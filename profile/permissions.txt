@@ -1,0 +1,5 @@
+android.permission.BLUETOOTH_ADMIN
+android.permission.BLUETOOTH
+android.permission.READ_LOGS
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
