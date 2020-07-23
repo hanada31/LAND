@@ -38,7 +38,8 @@ The paper PDF can be found at https://hanada31.github.io/pdf/issta18_land.pdf
 2. Install Java 1.8
 3. Install GraphViz (windows) and add "Graphvizxx\bin" into the environment variable "path"
 4. Run dot -c (as the root user) to update the config file
-5. Run land.jar   java -jar land.jar 
+5. Open an Android emulator or Android device
+5. Run land.jar "java -jar land.jar"
 
 # Note that:
 1. This tool can only run on Windows.

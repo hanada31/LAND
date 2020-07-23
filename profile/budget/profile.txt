@@ -1,4 +1,4 @@
-launchtime:1000
+launchtime:2000
 givenStr: *#123
 isTextLongClick:0
 smallsleeptime:1000

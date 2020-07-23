@@ -27,13 +27,14 @@ if __name__ == '__main__' :
 	apk_folder = Constant.apk_path + apk_name
 	apk_path = apk_folder + "\\" + apk_name 
 	apk_info_path = Constant.file_path+apk_name+"\\"
-	
+	print apk_info_path
 	apko = ApkOpearate(apk_name,apk_folder)  
 	apko.get_methods()
 	package = apko.getPackage()
+	print package
 	main = apko.getMain()
 	
-	print "java -jar "+Constant.testGenerator+" "+ package+" "+main  +" " +apk_name
+	print "java -jar "+Constant.testGenerator+" "+ package+" "+main  +" " +apk_name+" "+id+" "+str 
 	os.system("java -jar "+Constant.testGenerator+" "+ package+" "+main+" " +apk_name +" "+id+" "+str )
 	
 	java_folder = Constant.file_path +apk_name+"\\"+Constant.java_path
