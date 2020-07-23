@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.notriddle.budget.MonitorScrollView android:id="@id/scroll" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <include layout="@layout/totalamount" />
+        <include layout="@layout/cards" />
+        <LinearLayout android:orientation="vertical" android:id="@id/graph" android:background="@drawable/stateful_card_background" android:padding="@dimen/cardPadding" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/cardSpacing">
+            <TextView android:textSize="18.0sp" android:gravity="left" android:id="@id/graphLabel" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/showGraph_button" android:singleLine="true" />
+        </LinearLayout>
+        <View android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+        <TextView android:textSize="18.0sp" android:id="@id/allTransactions" android:background="@drawable/stateful_card_background" android:padding="@dimen/fullPadding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/allTransactions_button" />
+    </LinearLayout>
+</com.notriddle.budget.MonitorScrollView>

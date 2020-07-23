@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Presupuesto</string>
+    <string name="deleted_name">Eliminado</string>
+    <string name="undo_menuItem">Deshacer</string>
+    <string name="envelopeDetails_name">Sobre</string>
+    <string name="envelopeDetails_balance">Balance</string>
+    <string name="newEnvelope_menuItem">Nuevo sobre</string>
+    <string name="colorEnvelope_menuItem">Cambiar color</string>
+    <string name="envelopeName_hint">Nombre</string>
+    <string name="paycheck_name">Ingreso</string>
+    <string name="paycheck_menuItem">Añadir ingreso</string>
+    <string name="paycheck_spent">Distribuidos</string>
+    <string name="paycheck_description">Sueldo</string>
+    <string name="paycheck_docs">Distribuye tus ingresos ↑ en sobres para varios usos ↓</string>
+    <string name="earn_name">Ingreso</string>
+    <string name="earn_menuItem">Añadir ingreso</string>
+    <string name="spend_name">Gasto</string>
+    <string name="spend_menuItem">Añadir gasto</string>
+    <string name="edit_name">Editar</string>
+    <string name="transfer_name">Transferir</string>
+    <string name="transfer_menuItem">Transferir</string>
+    <string name="transfer_label">a</string>
+    <string name="default_envelope_1">Facturas</string>
+    <string name="default_envelope_2">Alimentos</string>
+    <string name="default_envelope_3">Vestimenta</string>
+    <string name="ok_menuItem">Aceptar</string>
+    <string name="description_hint">Descripción</string>
+    <string name="amount_hint">00.00</string>
+    <string name="gotIt">×</string>
+    <string name="loading">Cargando</string>
+    <string name="showGraph_button">Mostrar gráfico</string>
+    <string name="hideGraph_button">Ocultar gráfico</string>
+    <string name="allTransactions_button">Todas las transacciones</string>
+    <string name="allTransactions_name">Todas las transacciones</string>
+    <string name="export_name">Exportando…</string>
+    <string name="export_settings">Exportar</string>
+    <string name="export_settings_summary">Copie los datos financieros</string>
+    <string name="import_name">Importando…</string>
+    <string name="import_settings">Importar</string>
+    <string name="import_settings_summary">Restaurar los datos financieros</string>
+    <string name="delayed_checkBox">Diferido</string>
+    <string name="about_menuItem">Acerca de</string>
+    <string name="about_name">Acerca de Presupuesto con Sobres</string>
+    <string name="donate_button">Donar a Michael</string>
+    <string name="license">"Presupuesto versión %s
+© 2013 Michael Howell &lt;michael@notriddle.com>
+© 2013 Emilio López &lt;emilio@elopez.com.ar>
+
+ Presupuesto es software libre: puede redistribuirlo y/o modificarlo bajo los términos de la Licencia General Pública de GNU publicada por la Free Software Foundation, ya sea la versión 3 de la Licencia, o (a su elección) cualquier versión posterior.
+
+ Este programa se distribuye con la esperanza de que sea útil pero SIN NINGUNA GARANTÍA; incluso sin la garantía implícita de MERCANTIBILIDAD o CALIFICADA PARA UN PROPÓSITO EN PARTICULAR. Vea la Licencia General Pública de GNU para más detalles."</string>
+    <string name="pin_name">Desbloquear</string>
+    <string name="pin_label">Ingrese su PIN</string>
+    <string name="pin_toast_wrong">Intente nuevamente.</string>
+    <string name="pin_settings">PIN</string>
+    <string name="pin_settings_summary">Deje el campo vacío si no necesita esto</string>
+    <string name="settings_menuItem">Ajustes</string>
+    <string name="settings_name">Ajustes</string>
+    <string name="pin_notify">Desbloqueado. Toque para bloquear.</string>
+    <string name="graph_time">Fecha</string>
+</resources>

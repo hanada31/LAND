@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="22.0sp" android:id="@id/donateButton" android:background="@drawable/stateful_card_background" android:padding="@dimen/cardPadding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/cardSpacing" android:text="@string/donate_button" android:fontFamily="sans-serif-light" />
+        <TextView android:textSize="18.0sp" android:autoLink="all" android:id="@id/aboutText" android:background="@color/cardBackground" android:padding="@dimen/cardPadding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/cardSpacing" android:layout_marginTop="0.0dip" android:layout_marginRight="@dimen/cardSpacing" android:layout_marginBottom="@dimen/cardSpacing" android:text="@string/license" />
+        <TextView android:textSize="14.0sp" android:id="@id/gplText" android:background="@color/cardBackground" android:paddingLeft="@dimen/fullPadding" android:paddingTop="@dimen/cardPadding" android:paddingRight="@dimen/fullPadding" android:paddingBottom="@dimen/cardPadding" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </LinearLayout>
+</ScrollView>

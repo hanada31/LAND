@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.notriddle.budget.CheckableLinearLayout android:orientation="horizontal" android:id="@id/card" android:background="@drawable/stateful_card_background" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckedTextView android:textSize="22.0sp" android:textColor="#ff000000" android:gravity="left" android:id="@id/name" android:padding="@dimen/cardPadding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" android:layout_weight="2.0" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:fontFamily="sans-serif-light" />
+    <TextView android:textSize="22.0sp" android:textStyle="bold" android:textColor="#ff000000" android:gravity="right" android:id="@id/value" android:padding="@dimen/cardPadding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" android:layout_weight="3.0" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+</com.notriddle.budget.CheckableLinearLayout>

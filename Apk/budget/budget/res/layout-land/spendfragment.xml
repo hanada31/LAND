@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:padding="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="2.0"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <AutoCompleteTextView android:id="@id/description" android:nextFocusDown="@id/amount" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/description_hint" android:singleLine="true" android:inputType="textAutoCorrect|textCapWords" android:nextFocusForward="@id/amount" />
+        <com.notriddle.budget.EditMoney android:textStyle="bold" android:id="@id/amount" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/amount_hint" android:imeActionLabel="@android:string/ok" android:imeActionId="69" />
+        <CheckBox android:id="@id/delayed" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/delayed_checkBox" />
+    </LinearLayout>
+    <DatePicker android:layout_gravity="center_vertical" android:id="@id/delay" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" android:calendarViewShown="false" />
+</LinearLayout>

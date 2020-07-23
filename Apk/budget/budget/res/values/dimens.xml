@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cardWidth">256.0dip</dimen>
+    <dimen name="cardSpacing">8.0dip</dimen>
+    <dimen name="cardPadding">8.0dip</dimen>
+    <dimen name="halfCardPadding">4.0dip</dimen>
+    <dimen name="fullPadding">16.0dip</dimen>
+    <dimen name="titlePadding">16.0dip</dimen>
+    <dimen name="fullPadded">64.0dip</dimen>
+    <dimen name="presentText">34.0sp</dimen>
+    <dimen name="tabletBool">0.0dip</dimen>
+    <dimen name="graphHeight">256.0dip</dimen>
+    <dimen name="graphStroke">4.0dip</dimen>
+</resources>

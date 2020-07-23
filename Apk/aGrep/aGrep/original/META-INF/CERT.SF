@@ -1,0 +1,94 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: 5fO2UVLLh5SqLG4FzLz16CkLYDI=
+
+Name: res/layout/fileselector.xml
+SHA1-Digest: rnbL8wL8uelzpUiuejgMxGWgmao=
+
+Name: res/drawable-mdpi-v4/clr.png
+SHA1-Digest: tXGe6Q9gS9vFhhhVI5fhKI+dFfw=
+
+Name: lib/armeabi-v7a/libuniversalchardet.so
+SHA1-Digest: SfSWxiupzbCDUJ6J1NYk/pSNiM8=
+
+Name: lib/mips/libuniversalchardet.so
+SHA1-Digest: zRI3TG7Twev3DPw9tH9BclwvnyU=
+
+Name: lib/x86/libuniversalchardet.so
+SHA1-Digest: Ghw/LHzqKOFpIaYBNwbGP9h9hUw=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA1-Digest: nZJN+dF4hm4iWIvVqArAsRHdbro=
+
+Name: res/drawable-mdpi-v4/add.png
+SHA1-Digest: QXj0Q5s9tZFeTi8gIv7e5NNqBh0=
+
+Name: resources.arsc
+SHA1-Digest: 9D2iixMqetkL6yBO1CZPkE5F8qY=
+
+Name: res/layout/list_row.xml
+SHA1-Digest: kF2kvHT8s03ZGui7LVZ+aEMDn/M=
+
+Name: res/drawable-hdpi-v4/ic_menu_preferences.png
+SHA1-Digest: okjy/cIOV4NO1ZhQP1wUAqYYsJ0=
+
+Name: res/drawable-mdpi-v4/ic_menu_preferences.png
+SHA1-Digest: EtNLfLV7DkbzPfhGfCPc5SgPDPQ=
+
+Name: res/drawable-mdpi-v4/search.png
+SHA1-Digest: 88Iqp9dV4GLQl90mboYhtr8DX4c=
+
+Name: lib/armeabi/libuniversalchardet.so
+SHA1-Digest: FKb77R8eLEwLfErJ62HKyMwhMM0=
+
+Name: AndroidManifest.xml
+SHA1-Digest: BgwUFxNXjHCnB78CK29StDh4XiY=
+
+Name: res/menu/optionmenu.xml
+SHA1-Digest: GPVsW9pqu89rwLoVoHX7MyG5wR4=
+
+Name: res/drawable-hdpi-v4/ic_menu_share.png
+SHA1-Digest: 9AeIICZ8dm6g3/BuHKrUMckue4I=
+
+Name: res/layout/textviewer.xml
+SHA1-Digest: sEjDn6QyI/i3WKd1OSNSttQC5RM=
+
+Name: res/menu/mainmenu.xml
+SHA1-Digest: 8ArALvI9BYwyP7XAy4Pt/0y/yfA=
+
+Name: res/layout/file_row.xml
+SHA1-Digest: FOGzMD1fWdWwgOE9vnyk5lKDXV0=
+
+Name: res/layout/list_dir.xml
+SHA1-Digest: 2qXVi0q0HiLb0EERKMxfEPXWD18=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: ZIj6oouxzBtJHZH8EJ5u3nbcAC4=
+
+Name: res/layout/textpreview_row.xml
+SHA1-Digest: uvt7kkRV9FpC7zbxFyuAP7z3My4=
+
+Name: res/drawable-xhdpi-v4/icon.png
+SHA1-Digest: /QrfYsES823XJVyaV9FXPWaYw30=
+
+Name: res/layout/result.xml
+SHA1-Digest: 4hOwD6u39i8sPJR05BMvPa1JvfE=
+
+Name: classes.dex
+SHA1-Digest: MO/QiXH+bcaDhP9aU2xpeNrE7QI=
+
+Name: res/layout/colorpickeractivity.xml
+SHA1-Digest: AVJlWrJ/TMf7DiygYkrsmhK+u7Q=
+
+Name: res/layout/main.xml
+SHA1-Digest: q6VGijuODVQ/DCz60oSAarjL7TI=
+
+Name: res/drawable-mdpi-v4/history.png
+SHA1-Digest: jmrlNGOJRJ9x+w4uAKUiZSd4nRs=
+
+Name: res/drawable-mdpi-v4/ic_menu_share.png
+SHA1-Digest: 5uT9IDHbk76mRIlTgnWfAaWzLtM=
+
+Name: res/drawable-xxhdpi-v4/icon.png
+SHA1-Digest: GtjI9K7Z1PsFQOOVwCG37toNWyk=
+

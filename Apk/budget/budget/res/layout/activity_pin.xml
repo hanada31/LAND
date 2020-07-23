@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/presentText" android:id="@id/textView1" android:paddingLeft="@dimen/fullPadding" android:paddingTop="@dimen/cardPadding" android:paddingRight="@dimen/fullPadding" android:paddingBottom="@dimen/cardPadding" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/pin_label" android:fontFamily="sans-serif-light" />
+    <FrameLayout android:background="@color/cardBackground" android:padding="@dimen/cardPadding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/cardSpacing">
+        <EditText android:gravity="center_horizontal" android:id="@id/pin" android:layout_width="fill_parent" android:layout_height="wrap_content" android:inputType="numberPassword">
+            <requestFocus />
+        </EditText>
+    </FrameLayout>
+</LinearLayout>

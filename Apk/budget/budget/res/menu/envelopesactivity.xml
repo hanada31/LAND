@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/earn_menuitem" android:id="@id/paycheck_menuItem" android:title="@string/paycheck_menuItem" android:showAsAction="ifRoom" />
+    <item android:icon="@drawable/transfer_menuitem" android:id="@id/transfer_menuItem" android:title="@string/transfer_menuItem" android:showAsAction="ifRoom" />
+    <item android:icon="@drawable/new_menuitem" android:id="@id/newEnvelope_menuItem" android:title="@string/newEnvelope_menuItem" android:showAsAction="ifRoom" />
+    <item android:id="@id/settings_menuItem" android:title="@string/settings_menuItem" />
+    <item android:id="@id/about_menuItem" android:title="@string/about_menuItem" />
+</menu>

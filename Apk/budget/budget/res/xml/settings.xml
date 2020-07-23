@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference android:title="@string/pin_settings" android:key="com.notriddle.budget.pin" android:summary="@string/pin_settings_summary" />
+    <Preference android:title="@string/import_settings" android:key="com.notriddle.budget.import" android:summary="@string/import_settings_summary" />
+    <Preference android:title="@string/export_settings" android:key="com.notriddle.budget.export" android:summary="@string/export_settings_summary" />
+</PreferenceScreen>

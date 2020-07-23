@@ -1,0 +1,386 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: tvbRsE/Bt0NpCjf1cmNTCsZIkK4=
+Created-By: 1.7.0_55 (Oracle Corporation)
+SHA1-Digest-Manifest: bubvHqCsJLepeepQfQATx6siMAs=
+
+Name: res/layout/paycheckactivity_income.xml
+SHA1-Digest: vOeeH+Abg1cNOERAgm0S0NKX1fM=
+
+Name: res/drawable-hdpi/btn_check_off_disabled_focused_holo_light.png
+SHA1-Digest: MIB+j5nOWzX9fNsxznezcBdX/8M=
+
+Name: res/drawable-xhdpi/textfield_inactive.9.png
+SHA1-Digest: O0UeCw8QGusTYNYDn7FePVv7Sbo=
+
+Name: res/drawable-mdpi/new_menuitem.png
+SHA1-Digest: DWbF3Xq27WQ1q8GKw+DW4lVmco8=
+
+Name: res/drawable-mdpi/textfield_inactive.9.png
+SHA1-Digest: Lz1wznMyBRXF6AcuTTRuYl/jQSg=
+
+Name: res/drawable-xhdpi/textfield_disabled.9.png
+SHA1-Digest: HoQZ7NF3/CNZ4p+mG4eaHerFoD4=
+
+Name: res/drawable-xhdpi/btn_check_on_disabled_holo_light.png
+SHA1-Digest: 3C3StHj6lmBl3pv9VcE1/KRA9+M=
+
+Name: res/drawable-mdpi/textfield_disabled.9.png
+SHA1-Digest: fNJhSCPLBOKpFtaTWJ5b1utOsEY=
+
+Name: res/drawable-mdpi/btn_check_on_disabled_holo_light.png
+SHA1-Digest: ucrfEUVutmrPz4YRr/DW5Za1bAs=
+
+Name: res/layout/transferfragment.xml
+SHA1-Digest: EW5fNddQeuOereXvZ1vjpLbVTi8=
+
+Name: res/drawable-xhdpi/spinner_pressed.9.png
+SHA1-Digest: 6Z9wEQTPlrS65yigyNOw17Il0wQ=
+
+Name: res/layout/totalamount.xml
+SHA1-Digest: xv6uWTNHhblVsPtMroYTxlUdGWE=
+
+Name: res/drawable-mdpi/transfer_menuitem.png
+SHA1-Digest: 6RDn8v3Lw3y0XDFEkYqZntPaft0=
+
+Name: res/drawable-hdpi/cab_background_top.9.png
+SHA1-Digest: gLucdU/LekTXgy7sVsd6rzxiZHg=
+
+Name: res/drawable-hdpi/btn_check_off_holo_light.png
+SHA1-Digest: OT4s3lJKNbrzWv0usjMDpMc4Fqc=
+
+Name: res/menu/ok.xml
+SHA1-Digest: SdVV8TOv1qDYzIEx3GX4r6QJlqQ=
+
+Name: res/drawable/textfield.xml
+SHA1-Digest: Z++8d6xaFmwRYLe7k4vSol/OFXU=
+
+Name: res/layout/dropdown_nothing.xml
+SHA1-Digest: RjcO3UgtjBF26NYycnQMDgdojk8=
+
+Name: res/drawable/progress_horizontal.xml
+SHA1-Digest: TFLJcfW6oKH7eSpESaEdHRcjoIM=
+
+Name: res/drawable-hdpi/spend_menuitem.png
+SHA1-Digest: hwmWNVxzP4ZRGQW2SIq+EOZ9Eg0=
+
+Name: res/drawable-xxhdpi/ic_launcher.png
+SHA1-Digest: Y5/YiY57EwRdC9ayBXJs6SdHT8c=
+
+Name: res/drawable-xhdpi/btn_check_on_focused_holo_light.png
+SHA1-Digest: VRpvepSS4j7lwI0YldAU6lnf7BU=
+
+Name: res/drawable-mdpi/progress_primary_example.9.png
+SHA1-Digest: VjW/MznkIB1G277aizEVn+2EmCc=
+
+Name: res/drawable-mdpi/dialog_background_title.9.png
+SHA1-Digest: ZM3mjXc5PcdW3ImHFUuuxtu/0fo=
+
+Name: res/drawable-hdpi/btn_check_on_disabled_focused_holo_light.png
+SHA1-Digest: au97z23FDmLABwnCYNjraqYPgtU=
+
+Name: res/drawable-mdpi/ic_notification.png
+SHA1-Digest: VNZpZm+aheyOBdCo4rSZqjNqzAo=
+
+Name: res/layout/card_just_text.xml
+SHA1-Digest: UhdC0VZiM/B0fwYGsdR87OctOYA=
+
+Name: res/layout/aboutactivity.xml
+SHA1-Digest: cSx9Sk8eliDgZdHL8T/apxGkHBs=
+
+Name: res/drawable-mdpi/btn_check_off_disabled_focused_holo_light.png
+SHA1-Digest: ao+BEuDZJUSW3MOqVL7JWE0qLHw=
+
+Name: res/layout/activity_pin.xml
+SHA1-Digest: mjvW6A8DNmoaKyhkUn5LDRGxyPM=
+
+Name: res/layout-w600dp/envelopedetailsactivity.xml
+SHA1-Digest: 1WmOQaKlgQfwUZo5sHfeMUjL1RU=
+
+Name: res/drawable/widget_preview.png
+SHA1-Digest: CkysvFfLXvPsqoM4yH8PjRvuYAs=
+
+Name: res/drawable-xhdpi/progress_bg_example.9.png
+SHA1-Digest: 57rkVJKnq9I1vYuWBIpajQgf73g=
+
+Name: res/drawable-hdpi/btn_check_off_focused_holo_light.png
+SHA1-Digest: Ey8zyLwPTNRcFo55NRKVqspNjDc=
+
+Name: res/drawable-mdpi/btn_check_off_focused_holo_light.png
+SHA1-Digest: 7nZtYkrBRVMFDPdzydODkbjk5iE=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: wEOfwoez7HUminHMmZWqttyWzF4=
+
+Name: res/drawable-hdpi/btn_check_on_disabled_holo_light.png
+SHA1-Digest: X2PTjtprk0BK0o0lsKp5E7rqVWw=
+
+Name: res/drawable-hdpi/spinner_default.9.png
+SHA1-Digest: TLuTl0zepNmFaHZ+VmfZM1e/nH8=
+
+Name: res/layout/envelopesactivity.xml
+SHA1-Digest: VvQz6SqYIgA0FaYuguCSKbdB3hI=
+
+Name: res/drawable-xhdpi/btn_check_off_disabled_focused_holo_light.png
+SHA1-Digest: fvtjJ7k6UCH2Ci3PjjlTEWqNUEs=
+
+Name: resources.arsc
+SHA1-Digest: fxsxEtIQZkLtWqFx7DG6gt34vOk=
+
+Name: res/drawable-mdpi/btn_check_on_pressed_holo_light.png
+SHA1-Digest: h3OYPOYn8xR1L4cd4BOygILtbWc=
+
+Name: res/layout/custom_title.xml
+SHA1-Digest: ItH8wDIBG+D5yXUWRHA5UjELi1E=
+
+Name: res/layout/widget.xml
+SHA1-Digest: qHa9ebrW2oUSZW/qA/K1FhweiSI=
+
+Name: res/drawable-hdpi/color_menuitem.png
+SHA1-Digest: vZceclQxEEfBLJixjfbXVwXPzB8=
+
+Name: res/drawable-mdpi/earn_menuitem.png
+SHA1-Digest: YroJk4asVQD6nNH5yCLQ94LZc2o=
+
+Name: AndroidManifest.xml
+SHA1-Digest: DXY6T61hQdD7JROSJm9Bz4xkApQ=
+
+Name: res/drawable-hdpi/progress_primary_example.9.png
+SHA1-Digest: dZfIKGQ4lfHaxcizbzhZ6/f4Z2I=
+
+Name: res/menu/envelopedetailsactivity.xml
+SHA1-Digest: 4A29XggDhwDyspe3anuTS9bMl9Y=
+
+Name: res/drawable-xhdpi/btn_check_off_focused_holo_light.png
+SHA1-Digest: UICl9o4Crlw+XeeSiMpTPB7TG9M=
+
+Name: res/layout/card_widget.xml
+SHA1-Digest: TNwuDeAZ7TVeXv3httD+FsUXg+g=
+
+Name: res/drawable-mdpi/btn_check_off_disabled_holo_light.png
+SHA1-Digest: 2fGh6GFd4kp2D2UAOKd4++WMERk=
+
+Name: res/drawable-xhdpi/progress_secondary_example.9.png
+SHA1-Digest: sbNvVKDvJ/0puI4j/UJSLk6rsTA=
+
+Name: res/drawable-hdpi/btn_check_off_pressed_holo_light.png
+SHA1-Digest: afnvh3bDL0P3qKzay5lQfA9JoGc=
+
+Name: res/drawable-xhdpi/earn_menuitem.png
+SHA1-Digest: Z0J2UvidRsYZK78IeX1fq0Badso=
+
+Name: res/drawable-xhdpi/btn_check_on_pressed_holo_light.png
+SHA1-Digest: gXnCEXzCaNXAJohb2wC5svVRfTk=
+
+Name: res/drawable-hdpi/btn_check_on_focused_holo_light.png
+SHA1-Digest: tp4PoDsRH+MBjdhaSSl5JQHF6Qc=
+
+Name: res/drawable-xhdpi/dialog_background_title.9.png
+SHA1-Digest: m2UKT9hYSwMSO1HqCBAdzcj9nFY=
+
+Name: res/drawable-xhdpi/cab_background_top.9.png
+SHA1-Digest: 9uH48em1XBsFYQwToZIBLsRPI+U=
+
+Name: res/drawable-hdpi/ic_notification.png
+SHA1-Digest: jYPs4dZ64cBJwjYnjNveNMAcUUE=
+
+Name: res/drawable-mdpi/btn_check_on_disabled_focused_holo_light.png
+SHA1-Digest: 5kcX2u1loDKcmIzrmgzjMQlaEck=
+
+Name: classes.dex
+SHA1-Digest: FgYSYbwDEE2GmhbdNfBxzerTJUw=
+
+Name: res/drawable-xhdpi/btn_check_off_disabled_holo_light.png
+SHA1-Digest: 8JPyFkl8R9PQX8tEK+p5FVOU6zM=
+
+Name: res/drawable-hdpi/textfield_disabled.9.png
+SHA1-Digest: YmzlEwKp9twkOCuX2fQDlGrqZ9c=
+
+Name: res/drawable-hdpi/btn_check_on_pressed_holo_light.png
+SHA1-Digest: kj74O5kN9iIjO3j/cVgFgPoMb74=
+
+Name: res/layout/paycheckactivity.xml
+SHA1-Digest: Jouqi+8UvwFyi6H/ZB/doWNQz0c=
+
+Name: res/drawable-xhdpi/spinner_default.9.png
+SHA1-Digest: v41Vry7I6J6c9I9Dq1+QgrhmlQk=
+
+Name: res/drawable-xhdpi/progress_primary_example.9.png
+SHA1-Digest: TbyY99aPy4EsbuZLBpes5g9BHjs=
+
+Name: res/layout-land/spendfragment.xml
+SHA1-Digest: vt2ozw3NJEFeSOz0OKt7dO1uf+g=
+
+Name: res/menu/undo.xml
+SHA1-Digest: 33dI6E/jIyavrUSidb6WOuZ0yt0=
+
+Name: res/xml/widget.xml
+SHA1-Digest: zYSx8GjPlIkHJVtOQqDxEsIntbg=
+
+Name: res/drawable-hdpi/progress_bg_example.9.png
+SHA1-Digest: w8PHUg3kO0iYP2P886xKnElm0pA=
+
+Name: res/drawable/selectable.xml
+SHA1-Digest: E77a/Ur8FncVlOVwaW+At9wCvNI=
+
+Name: res/drawable-xhdpi/spinner_disabled.9.png
+SHA1-Digest: lBGuHKWZbVKtZ+Qa78Lo+1fbRaA=
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: oDQnUMg/6apTZ2sZJM4TpqDt+Po=
+
+Name: res/drawable-hdpi/progress_secondary_example.9.png
+SHA1-Digest: Bu0TEKzTSodf543xvoe8AdEN73Y=
+
+Name: res/drawable/stateful_card_background.xml
+SHA1-Digest: S1mYncB99Dl2rBD+/3lhJZggfQw=
+
+Name: res/drawable-xhdpi/spinner_focused.9.png
+SHA1-Digest: Gs30fZMuDsPXRYvnlGzGo114VgM=
+
+Name: res/layout/spendfragment.xml
+SHA1-Digest: mj11eNGtBbIM52w9melRJEEP7Bw=
+
+Name: res/drawable-mdpi/btn_check_on_focused_holo_light.png
+SHA1-Digest: LTizhywRjx7WF+klt+zy6Q9lSFc=
+
+Name: res/layout/card.xml
+SHA1-Digest: yVO67GfkbPoK3u8fQPJzNXRIxFk=
+
+Name: res/drawable-xhdpi/btn_check_on_disabled_focused_holo_light.png
+SHA1-Digest: 5SfBaBbb5ktYmAbdc9cMMuDc9qw=
+
+Name: res/drawable-hdpi/btn_check_on_holo_light.png
+SHA1-Digest: mAK9URf48U5bZH0hcqV6hQlrFG0=
+
+Name: res/drawable-mdpi/cab_background_top.9.png
+SHA1-Digest: db14t1e1AB2i904SMUJxcZR7YK8=
+
+Name: res/drawable-mdpi/spend_menuitem.png
+SHA1-Digest: L6hS1CvmglRw9H+KolR0wxtz9cs=
+
+Name: res/drawable-hdpi/textfield_active.9.png
+SHA1-Digest: lXRtQhOPViPAlqFb1MZwQPxzEUg=
+
+Name: res/drawable-mdpi/progress_bg_example.9.png
+SHA1-Digest: Vap2pd6f+sqpt4U6niesiQgJSZ8=
+
+Name: res/drawable-hdpi/dialog_background_title.9.png
+SHA1-Digest: HLlHlBHPfI4CbxFfgPnZ0NzGRp8=
+
+Name: res/drawable-hdpi/transfer_menuitem.png
+SHA1-Digest: qoSuPxB+kA+kFiycjpydMJnXboY=
+
+Name: res/drawable-mdpi/btn_check_off_pressed_holo_light.png
+SHA1-Digest: 5HU3+Bu7X2UoU8IwGgp4DbkUdEw=
+
+Name: res/layout/card_edit.xml
+SHA1-Digest: fEd2hxjajJz1T6WjWq9eHegs2vg=
+
+Name: res/xml/settings.xml
+SHA1-Digest: em76+wI+0sCCxtZmS80BTokZu8w=
+
+Name: res/drawable-mdpi/spinner_disabled.9.png
+SHA1-Digest: 2wDm+tswhKp+VkGKmoc+haRTxYI=
+
+Name: res/drawable-xhdpi/textfield_active.9.png
+SHA1-Digest: ltUy4myX554VPoG9niaCNWs9Vks=
+
+Name: res/drawable-xhdpi/transfer_menuitem.png
+SHA1-Digest: 7Vx+TPv77/9imrK8LjmU4vdIyb0=
+
+Name: res/drawable-mdpi/spinner_focused.9.png
+SHA1-Digest: Jwk9suRRauFJY1vWzfluCnbp3QU=
+
+Name: res/drawable-hdpi/btn_check_off_disabled_holo_light.png
+SHA1-Digest: ZAd6zk7jMgHW9Zawo5FCMz1kse0=
+
+Name: res/drawable-mdpi/textfield_active.9.png
+SHA1-Digest: E8qol4qPOmHEDRhV79XDETyRtmQ=
+
+Name: res/drawable-hdpi/textfield_inactive.9.png
+SHA1-Digest: FxoFdzUy4nJq1vjx/xfq5tpdOd0=
+
+Name: res/drawable/btn_check_holo_light.xml
+SHA1-Digest: hjWGLjjT2OjSiuwe14PZxlRNTKs=
+
+Name: res/layout/envelopedetailsactivity.xml
+SHA1-Digest: rHruBSzccnIeiohJHeIx7juf4g4=
+
+Name: res/drawable-mdpi/progress_secondary_example.9.png
+SHA1-Digest: RW++968NR4N1JTsxx0i13mcJkSo=
+
+Name: assets/gpl.html
+SHA1-Digest: BJh2X5+sPk8c7EGTc4nwLHhfzq8=
+
+Name: res/drawable-xhdpi/color_menuitem.png
+SHA1-Digest: dMKbb28CyIO7KRuPKrFmvO+Rqc4=
+
+Name: res/drawable-xhdpi/spend_menuitem.png
+SHA1-Digest: 1FaIL4iwlk5ORppTEdLzsGQDAAs=
+
+Name: res/drawable-hdpi/earn_menuitem.png
+SHA1-Digest: 7p8QzB4XuBZdpG9h1cFgJebXkIo=
+
+Name: res/drawable-hdpi/spinner_pressed.9.png
+SHA1-Digest: r0ebYNzMHue+0YEYRmeAdAOStAw=
+
+Name: res/layout/alltransactionsactivity.xml
+SHA1-Digest: 5GFQGXIS6Jm3agzGwleaFw1Ji8g=
+
+Name: res/layout/logentry_envelope.xml
+SHA1-Digest: skKFpnTEAj37DdKQdobWQEAWl0I=
+
+Name: res/drawable-mdpi/spinner_default.9.png
+SHA1-Digest: PYEle3osFamMUn5fwHmo1fZQCSo=
+
+Name: res/layout/cards.xml
+SHA1-Digest: 2pvv+qv+Za0sWsryw/L44stR/g8=
+
+Name: res/drawable-xhdpi/ic_notification.png
+SHA1-Digest: 0bvszF+LYb6ae57rosU4vKPb86Y=
+
+Name: res/layout/logentry.xml
+SHA1-Digest: gCtqPAA1sCy1jzVtj8MrEElpdBQ=
+
+Name: res/drawable-xhdpi/new_menuitem.png
+SHA1-Digest: zTE0+2RoYSkjimYvhUynv2lxaB8=
+
+Name: res/menu/envelopesactivity.xml
+SHA1-Digest: wpOsbE2Ouo8uGDkzOuRdBO0I7U0=
+
+Name: res/drawable-mdpi/btn_check_on_holo_light.png
+SHA1-Digest: uviCcySOSOWltxwCTor6Dkpgpn4=
+
+Name: res/drawable-hdpi/spinner_focused.9.png
+SHA1-Digest: VxEO7FXPF1sGPco7SUS/+J3fgwQ=
+
+Name: res/drawable/spinner.xml
+SHA1-Digest: jGRjqw47y623aireWSCp5bv4hIY=
+
+Name: res/drawable-xhdpi/btn_check_off_holo_light.png
+SHA1-Digest: Ybr4oSoGUlB6cIlU/iVK+OYPbdk=
+
+Name: res/drawable-mdpi/btn_check_off_holo_light.png
+SHA1-Digest: XcIqBFYaD2/9krROqQqSj9n1jM8=
+
+Name: res/drawable-mdpi/spinner_pressed.9.png
+SHA1-Digest: +zThHIxANDbYlTbxy7HIN+/s6hc=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: Gtyuz0YaFGqZyhUJgqLqXS6AktA=
+
+Name: res/drawable-hdpi/new_menuitem.png
+SHA1-Digest: w1qgoZP5A1Nm4fM4JefiS3WVxR0=
+
+Name: res/drawable-mdpi/color_menuitem.png
+SHA1-Digest: mYK5oKo9fLecLv3fsrpfRhwuu/U=
+
+Name: res/drawable-xhdpi/btn_check_off_pressed_holo_light.png
+SHA1-Digest: VQPbETHkE3u2tkxRLZg52t2A2Co=
+
+Name: res/drawable-xhdpi/btn_check_on_holo_light.png
+SHA1-Digest: igCNzioO2DSuMgnWSWXJmoClDfM=
+
+Name: res/drawable-hdpi/spinner_disabled.9.png
+SHA1-Digest: GsqvcvZd66upoc2nS7iCp/Ii18A=
+

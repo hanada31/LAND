@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Budget</string>
+    <string name="deleted_name">Deleted</string>
+    <string name="undo_menuItem">Undo</string>
+    <string name="envelopeDetails_name">Envelope</string>
+    <string name="envelopeDetails_balance">Balance</string>
+    <string name="newEnvelope_menuItem">New envelope</string>
+    <string name="colorEnvelope_menuItem">Change color</string>
+    <string name="envelopeName_hint">Envelope name</string>
+    <string name="paycheck_name">Earn</string>
+    <string name="paycheck_menuItem">Earn</string>
+    <string name="paycheck_spent">Distributed</string>
+    <string name="paycheck_description">Paycheck</string>
+    <string name="paycheck_docs">Put your earnings ↑ to various uses ↓</string>
+    <string name="earn_name">Earn</string>
+    <string name="earn_menuItem">Earn</string>
+    <string name="spend_name">Spend</string>
+    <string name="spend_menuItem">Spend</string>
+    <string name="edit_name">Edit</string>
+    <string name="transfer_name">Transfer</string>
+    <string name="transfer_menuItem">Transfer</string>
+    <string name="transfer_label">to</string>
+    <string name="default_envelope_1">Bills</string>
+    <string name="default_envelope_2">Food</string>
+    <string name="default_envelope_3">Clothes</string>
+    <string name="ok_menuItem">OK</string>
+    <string name="description_hint">Description</string>
+    <string name="amount_hint">00.00</string>
+    <string name="gotIt">×</string>
+    <string name="loading">Loading</string>
+    <string name="showGraph_button">Show graph</string>
+    <string name="hideGraph_button">Hide graph</string>
+    <string name="allTransactions_button">All transactions</string>
+    <string name="allTransactions_name">All transactions</string>
+    <string name="export_name">Exporting…</string>
+    <string name="export_settings">Export</string>
+    <string name="export_settings_summary">Back up financial data</string>
+    <string name="import_name">Importing…</string>
+    <string name="import_settings">Import</string>
+    <string name="import_settings_summary">Restore financial data</string>
+    <string name="delayed_checkBox">Delayed</string>
+    <string name="about_menuItem">About</string>
+    <string name="about_name">About Budget with Envelopes</string>
+    <string name="donate_button">Donate to Michael</string>
+    <string name="license">"Budget version %s
+© 2013 Michael Howell &lt;michael@notriddle.com>
+
+ Budget is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+ Budget is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details."</string>
+    <string name="pin_name">Unlock</string>
+    <string name="pin_label">Enter your PIN</string>
+    <string name="pin_toast_wrong">Try again</string>
+    <string name="pin_settings">PIN</string>
+    <string name="pin_settings_summary">"Leave empty if you don't need this"</string>
+    <string name="settings_menuItem">Settings</string>
+    <string name="settings_name">Settings</string>
+    <string name="pin_notify">Unlocked. Tap to lock.</string>
+    <string name="graph_time">Time</string>
+</resources>

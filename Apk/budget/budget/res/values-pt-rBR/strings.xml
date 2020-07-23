@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Orçamento</string>
+    <string name="deleted_name">Deletado</string>
+    <string name="undo_menuItem">Desfazer</string>
+    <string name="envelopeDetails_name">Envelope</string>
+    <string name="envelopeDetails_balance">Saldo</string>
+    <string name="newEnvelope_menuItem">Novo envelope</string>
+    <string name="colorEnvelope_menuItem">Mudar de cor</string>
+    <string name="envelopeName_hint">Nome</string>
+    <string name="paycheck_name">Ganhar</string>
+    <string name="paycheck_menuItem">Ganhar</string>
+    <string name="paycheck_spent">Distribuído</string>
+    <string name="paycheck_description">Salário</string>
+    <string name="paycheck_docs">Coloque seus ganhos ↑ a vários usos ↓</string>
+    <string name="earn_name">Ganhar</string>
+    <string name="earn_menuItem">Ganhar</string>
+    <string name="spend_name">Gastar</string>
+    <string name="spend_menuItem">Gastar</string>
+    <string name="edit_name">Editar</string>
+    <string name="transfer_name">Transferir</string>
+    <string name="transfer_menuItem">Transferir</string>
+    <string name="transfer_label">a</string>
+    <string name="default_envelope_1">Contas</string>
+    <string name="default_envelope_2">Alimentos</string>
+    <string name="default_envelope_3">Vestuário</string>
+    <string name="ok_menuItem">Aceitar</string>
+    <string name="description_hint">Descripção</string>
+    <string name="amount_hint">00.00</string>
+    <string name="gotIt">×</string>
+    <string name="loading">Carregando</string>
+    <string name="showGraph_button">Mostrar gráfico</string>
+    <string name="hideGraph_button">Esconder gráfico</string>
+    <string name="allTransactions_button">Todas as transacções</string>
+    <string name="allTransactions_name">Todas as transacções</string>
+    <string name="export_name">Exportando…</string>
+    <string name="export_settings">Exportar</string>
+    <string name="export_settings_summary">Backup de dados financeiros</string>
+    <string name="import_name">Importando…</string>
+    <string name="import_settings">Importar</string>
+    <string name="import_settings_summary">Restauração de dados financeiros</string>
+    <string name="delayed_checkBox">Diferido</string>
+    <string name="about_menuItem">Sobre</string>
+    <string name="about_name">Sobre Orçamento com envelopes</string>
+    <string name="donate_button">Doe a Michael</string>
+    <string name="license">"Orçamento versão %s
+© 2013 Michael Howell &lt;michael@notriddle.com>
+© 2013 Melinda Howell &lt;melinda@smhowell.net>
+
+ Este programa é um software livre; você pode redistribui-lo e/ou modificá-lo sob os termos da Licença Pública Geral GNU, como publicada pela Free Software Foundation; pela versão 3 da Licença, ou (a seu critério) por qualquer versão posterior.
+
+ Este programa é distribuído na esperança de que seja útil, mas SEM QUALQUER GARANTIA; sem mesmo garantias implícitas de COMERCIALIZAÇÃO ou de ADEQUAÇÃO A PROPÓSITO PARTICULAR. Veja a Licença Pública Geral GNU para mais detalhes."</string>
+    <string name="pin_name">Desbloquear</string>
+    <string name="pin_label">Insire o seu PIN</string>
+    <string name="pin_toast_wrong">Intente de novo.</string>
+    <string name="pin_settings">PIN</string>
+    <string name="pin_settings_summary">Deixe o campo vazio se não precisa isto</string>
+    <string name="settings_menuItem">Configurações</string>
+    <string name="settings_name">Configurações</string>
+    <string name="pin_notify">Desbloqueado. Toque para desbloquear.</string>
+    <string name="graph_time">Hora</string>
+</resources>

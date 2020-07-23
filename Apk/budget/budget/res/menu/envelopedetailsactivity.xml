@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/spend_menuitem" android:id="@id/spend_menuItem" android:title="@string/spend_menuItem" android:showAsAction="ifRoom" />
+    <item android:icon="@drawable/earn_menuitem" android:id="@id/earn_menuItem" android:title="@string/earn_menuItem" android:showAsAction="ifRoom" />
+    <item android:icon="@drawable/color_menuitem" android:id="@id/color_menuItem" android:title="@string/colorEnvelope_menuItem" android:showAsAction="ifRoom" />
+</menu>

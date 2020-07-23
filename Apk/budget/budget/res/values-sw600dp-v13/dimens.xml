@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cardSpacing">16.0dip</dimen>
+    <dimen name="cardPadding">8.0dip</dimen>
+    <dimen name="halfCardPadding">4.0dip</dimen>
+    <dimen name="fullPadding">24.0dip</dimen>
+    <dimen name="fullPadded">88.0dip</dimen>
+    <dimen name="presentText">40.0sp</dimen>
+    <dimen name="tabletBool">1.0dip</dimen>
+</resources>

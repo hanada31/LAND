@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="horizontal" android:id="@id/LinearLayout01" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageButton android:id="@id/ButtonHistory" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/history" />
+            <AutoCompleteTextView android:id="@id/EditText01" android:layout_width="0.0dip" android:layout_height="fill_parent" android:hint="@string/label_hint" android:singleLine="true" android:capitalize="none" android:completionThreshold="1" android:layout_weight="1.0" android:imeOptions="actionSearch|flagNoExtractUi" />
+            <ImageButton android:id="@id/ButtonSearch" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/search" />
+            <ImageButton android:id="@id/ButtonClear" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/clr" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageButton android:id="@id/adddir" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/add" />
+            <TextView android:textSize="20.0sp" android:layout_gravity="center|left" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/label_dir" android:layout_weight="1.0" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/listdir" android:paddingLeft="20.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageButton android:id="@id/addext" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/add" />
+            <TextView android:textSize="20.0dip" android:layout_gravity="center|left" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/label_ext" android:layout_weight="1.0" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/listext" android:paddingLeft="20.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <CheckBox android:id="@id/checkre" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/label_re" />
+        <CheckBox android:id="@id/checkignorecase" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/label_ignore_case" />
+    </LinearLayout>
+</ScrollView>
