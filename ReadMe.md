@@ -11,7 +11,7 @@ LAND is an effective and user-friendly test generation tool based on GUI explora
 
 
 ## Publication ##
-The paper PDF can be found at https://hanada31.github.io/pdf/issta18_land.pdf
+The paper PDF can be found at https://hanada31.github.io/pdf/issta18_land.pdf and https://hanada31.github.io/pdf/qrs17_land.pdf.
 ```
 @inproceedings{LAND2018,
   author    = {Jiwei Yan and
@@ -31,7 +31,22 @@ The paper PDF can be found at https://hanada31.github.io/pdf/issta18_land.pdf
 }
 
 ```
-
+```
+@inproceedings{LAND2017,
+  author    = {Jiwei Yan and
+               Tianyong Wu and
+               Jun Yan and
+               Jian Zhang},
+  title     = {Widget-Sensitive and Back-Stack-Aware {GUI} Exploration for Testing
+               Android Apps},
+  booktitle = {2017 {IEEE} International Conference on Software Quality, Reliability
+               and Security, {QRS} 2017, Prague, Czech Republic, July 25-29, 2017},
+  pages     = {42--53},
+  publisher = {{IEEE}},
+  year      = {2017},
+  url       = {https://doi.org/10.1109/QRS.2017.14},
+}
+```
 
 # Steps:
 1. Install Python 2.7
